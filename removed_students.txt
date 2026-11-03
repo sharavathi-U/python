@@ -1,0 +1,14 @@
+
+--------Removed Students--------
+
+NAME            USN            DEPARTMENT       MARKS1     MARKS2     MARKS3        AVERAGE        TOTAL              GRADE          ATTENCDENCE
+----------------------------------------------------------------------------------------------------------------------------------------------        
+SINDHU          84              AIML            89         88         74              251             83.66           A               22.0           
+SRUSTI          103             AI              98         99         97              294             98.0            A+              30.0           
+renuka          131             AI              89         89         74              252             84.0            A               39.0           
+yash            112             AI              89         74         54              217             72.33           c               56.00              
+manjula         88              AI              89         20         10              119             39.67          Fail             20.00             
+ranju           68              AI              89         85         98              272             90.67           A+              25.00   
+shraf           27              AI              78         20         21              119             39.67          Fail             75.00  
+rahul           1               AI              88         18         75              163             43.69          Fail             80.25
+  

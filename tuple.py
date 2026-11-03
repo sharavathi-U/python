@@ -1,0 +1,5 @@
+tpl1=(3,6,2025,'rcb','trophy')
+print(tpl1)
+print(tpl1.count('rcb'))
+print(tpl1.index('rcb'))
+print(tpl1.add(2025))

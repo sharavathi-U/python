@@ -1,0 +1,7 @@
+---------Failed Students---------
+
+NAME            USN            DEPARTMENT       MARKS1     MARKS2     MARKS3        AVERAGE        TOTAL       GRADE          ATTENCDENCE
+-------------------------------------------------------------------------------------------------------------------------------------------------
+shraf           27                AI              78         fail       fail         119           39.67      Fail             75.00    
+rahul           1                 AI              88         fail        75          163           43.69      Fail             80.25
+ 
